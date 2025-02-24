@@ -19,7 +19,8 @@ body {
     height: 499px;
     text-align: center;
     border-radius: 20px;
-    padding: 16px;
+    padding: 16px 16px 40px 16px;
+    box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 }
 
 img {
@@ -44,4 +45,5 @@ p {
     color: #68778D;
     line-height: 140%;
     letter-spacing: 0.2px;
+    text-align: center;
 }
